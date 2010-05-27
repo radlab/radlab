@@ -1,0 +1,9 @@
+[submodule "deploylib"]
+	path = deploylib
+	url = git@github.com:radlab/deploylib.git
+[submodule "scads"]
+	path = scads
+	url = git@github.com:radlab/SCADS.git
+[submodule "maven"]
+	path = maven
+	url = ssh://scm.millennium.berkeley.edu/project/cs/radlab/src/maven
