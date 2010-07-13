@@ -7,3 +7,9 @@
 [submodule "maven"]
 	path = maven
 	url = ssh://scm.millennium.berkeley.edu/project/cs/radlab/src/maven
+[submodule "avro-scala-compiler-plugin"]
+	path = avro-scala-compiler-plugin
+	url = git@github.com:radlab/avro-scala-compiler-plugin.git
+[submodule "scadr"]
+	path = apps/scadr
+	url = git@github.com:radlab/scadr.git
