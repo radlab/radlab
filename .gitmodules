@@ -13,3 +13,6 @@
 [submodule "scadr"]
 	path = apps/scadr
 	url = git@github.com:radlab/scadr.git
+[submodule "mesos"]
+	path = mesos
+	url = ssh://r2.millennium.berkeley.edu/work/mesos-production
